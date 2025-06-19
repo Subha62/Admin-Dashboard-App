@@ -3,9 +3,8 @@
 
 
 
-npx create-react-app  project_syncfusion_dashboard
-cd  project_syncfusion_dashboard
-npm install react-router-dom tailwindcss @headlessui/react @heroicons/react \
-            classnames react-icons recharts react-big-calendar date-fns
-npx tailwindcss init -p
+# npx create-react-app  project_syncfusion_dashboard
+# cd  project_syncfusion_dashboard
+ # npm install react-router-dom tailwindcss @headlessui/react @heroicons/react 
+ # npx tailwindcss init -p
 
